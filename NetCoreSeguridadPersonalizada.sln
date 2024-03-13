@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34622.214
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NetCoreSeguridadPersonalizada", "NetCoreSeguridadPersonalizada.csproj", "{54DCF519-CE1A-43B9-9FEC-1F5708B0C579}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{54DCF519-CE1A-43B9-9FEC-1F5708B0C579}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{54DCF519-CE1A-43B9-9FEC-1F5708B0C579}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{54DCF519-CE1A-43B9-9FEC-1F5708B0C579}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{54DCF519-CE1A-43B9-9FEC-1F5708B0C579}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {491848AB-F175-455B-AAF8-9D4E62C5D303}
+	EndGlobalSection
+EndGlobal
